@@ -11,3 +11,8 @@ nnoremap <silent><F12> :A<CR>
 nnoremap <silent><F3> :Grep<CR>
 set nu
 
+
+"for windows
+"set enc=utf-8
+"for linux
+"export LANG=en_SG.UTF-8
